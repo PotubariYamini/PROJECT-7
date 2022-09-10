@@ -11,8 +11,8 @@ Financial-SENTIMENTAL ANALYSIS
 * jupyter notebook
 * numpy
 * pandas 
-* tensorflow keras
-* models like: RNN, LSTM
+* sklearn library
+* models like: Logistic Regression, Random forest, AdaBoostclassifier
 * matplotlib
 
 3. Data preprocessing:
